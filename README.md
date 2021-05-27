@@ -1,6 +1,6 @@
 # hello-world
 
-<strong>I am a webdeveloper and .NET engineer</strong> who loves defining user-needs. With experience: working in Agile environments as a freelance developer and Scrum team member, I know development life-cycle. My approach is finding how best to serve a project and the people involved: Relationships, communication and competance are my language.
+<strong>I am a webdeveloper and .NET engineer</strong> who loves defining user-needs. With experience: working in Agile environments as a freelance developer and Scrum team member, I know development life-cycle. My approach is finding how best to serve a project and the people involved: Relationships, communication and competence are my language.
 
 <h4>
 I also love to play and teach music!</h4>
